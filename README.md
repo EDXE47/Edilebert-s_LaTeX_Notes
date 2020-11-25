@@ -7,6 +7,7 @@ The files would be then hosted and made available to download at [edilebert.com]
   - Real Analysis
   - Complex Analysis
   - Topology
+  - Measure Theory
   - Functional Analysis
 - Algebra
   - Abstract Algebra
