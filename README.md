@@ -1,3 +1,14 @@
-# Edilebert' s LaTeX Notes
+# Edilebert's LaTeX Notes
+A repository where I plan to host my college notes typeset in LaTeX.
+The files would be then hosted and made available to download at [edilebert.com](https://edilebert.com).
 
-I usually typeset all my notes using LaTeX. I am hosting all the codes here to make this an open source project. Hope you find it useful.
+## Subjects
+- Analysis
+  - Real Analysis
+  - Complex Analysis
+  - Topology
+  - Functional Analysis
+- Algebra
+  - Abstract Algebra
+  - Advanced Algebra
+  - Galois Theory
